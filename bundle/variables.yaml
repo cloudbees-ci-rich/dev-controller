@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci-rich
+- admin-user: RichKolkmeier-admin
+- manager-user: RichKolkmeier
